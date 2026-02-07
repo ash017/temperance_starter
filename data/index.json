@@ -1,18 +1,18 @@
 {
   "hero": {
-    "title": "Build Blazing-Fast Websites with Nuxt.js & Netlify",
-    "description": "Craft high-performing, SEO-friendly web experiences with the dynamic power of Nuxt.js and the speed of Netlify's global edge network.",
-    "image": "images/hero.jpg",
-    "imageAlt": "Nuxt logo and title on abstract background",
+    "title": "Temperance Swimwear & Intimates",
+    "description": "Do you need custom swimwear or intimates, or need online tutoring and consultation to bring your own creations to fruition?",
+    "image": "images/blacktop.jpeg",
+    "imageAlt": "TB&I logo and title on abstract background",
     "buttons": [
       {
-        "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "label": "Contact Us Today",
+        "url": "https://www.temperancebras.com"
       }
     ]
   },
   "logos": {
-    "title": "Trusted by the world's best",
+    "title": "Some of our work",
     "icons": [
       {
         "name": "i-simple-icons-gitlab"
@@ -32,72 +32,67 @@
     ]
   },
   "features": {
-    "title": "Why choose Nuxt.js?",
-    "description": "Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.",
+    "title": "What we offer",
+    "description": "We offer a broad range of custom foundation garments, and for those creating their own, assistance tailored to your needs",
     "items": [
       {
-        "title": "Server-Side Rendering",
-        "description": "Nuxt.js allows you to build SSR applications with Vue.js, ensuring fast initial page loads and better SEO."
+        "title": "Custom Creations",
+        "description": "Custom design and fitting",
+		"bullets": ["Bras: underwire, wireless, sportsbra, strapless, adaptive", "Swimwear", "Coutil corset"]
       },
       {
-        "title": "Static Site Generation",
-        "description": "You can pre-render pages at build time for static websites. This helps with performance and scalability by serving content directly from a CDN."
+        "title": "Berverly Johnson Certified Bra Making Instructor",
+        "description": "Bra making instruction",
+		"bullets": ["local in-person", "on-line", "Featuring Beverly Johnson's new London and Paris Series"]
       },
       {
-        "title": "Auto-Routing",
-        "description": "Nuxt automatically generates routes based on the file structure inside the pages directory, reducing the need for manual configuration."
+        "title": "Online Tutoring and Consultation",
+        "description": "Flexible to meet your particular needs, and guide you every step of the way",
+		"bullets": ["Fitting assistance", "Local in-person class", "pattern alteration"]
       },
       {
-        "title": "File-based Configuration",
-        "description": "Nuxt uses a convention-over-configuration approach, allowing you to define configurations easily in nuxt.config.js without much boilerplate."
-      },
-      {
-        "title": "Dynamic Imports",
-        "description": "It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks."
-      },
-      {
-        "title": "SEO Friendly",
-        "description": "With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly."
+        "title": "Another Offering",
+        "description": "Need 4 offerings to be balanced."
       }
     ]
   },
   "testimonials": {
-    "title": "What Our Users Are Saying",
-    "description": "Hear from our clients about their experiences working with Nuxt and Netlify.",
+    "title": "A Sample of Some of Our Work",
+    "description": "Some of things we have done",
     "items": [
       {
-        "quote": "Nuxt has made building our projects so much easier and more enjoyable! Its simple setup and powerful features help us create fast, responsive websites with minimal effort.",
+        "quote": "",
         "author": {
-          "name": "Daniel H.",
-          "title": "Marketing Specialist at Some Company",
-          "avatar": "images/person-1.jpg"
+          "name": "",
+          "title": "Underwire Bra",
+          "avatar": "images/bluetop.jpeg"
         }
       },
       {
-        "quote": "The scalability offered by Netlify and the flexibility of Nuxt have allowed us to expand our site's functionality without worrying about performance issues. This combination is a powerful solution for any growing business.",
+        "quote": "",
         "author": {
-          "name": "Sarah L.",
-          "title": "CEO at Some Company",
-          "avatar": "images/person-2.jpg"
+          "name": "",
+          "title": "Swim Top",
+          "avatar": "images/paisleytop.jpeg"
         }
       },
       {
-        "quote": "Switching to Nuxt and Netlify was a game-changer for our development process. The seamless integration between the two platforms allowed us to deploy faster and with fewer headaches.",
+        "quote": "",
         "author": {
-          "name": "Mark T.",
-          "title": "Frontend Engineer at Some Company",
-          "avatar": "images/person-3.jpg"
+          "name": "",
+          "title": "Coutil Corset",
+          "avatar": "images/purplebottom.jpeg"
         }
       }
     ]
   },
   "cta": {
-    "title": "Start Building with Nuxt & Netlify",
-    "description": "Let your next project be smarter, faster, and effortlessly deployable.",
+    "title": "Let's start you on your way",
+    "description": "Let your next project be smarter, faster, and effortless.",
     "buttons": [
       {
         "label": "Get Started Today",
-        "url": "https://www.netlify.com/"
+        "url": "www.temperancebras.com"
       }
     ]
   }

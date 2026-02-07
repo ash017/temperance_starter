@@ -3,6 +3,7 @@ const props = defineProps({
   title: String,
   description: String,
   items: Array,
+  bullets: Array,
 });
 </script>
 
@@ -29,7 +30,12 @@ const props = defineProps({
       </h3>
       <p class="mt-2 leading-relaxed text-zinc-500" v-if="item.description">
         {{ item.description }}
-      </p>
+	  </p>
+	  <ul>
+	  <li v-for="bullet in item.bullets" >
+        {{ bullet }}
+	  </li>
+	  </ul>
     </div>
   </div>
 </template>
