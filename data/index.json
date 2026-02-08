@@ -43,7 +43,7 @@
       {
         "title": "Berverly Johnson Certified Bra Making Instructor",
         "description": "Bra making instruction",
-		"bullets": ["local in-person", "on-line", "Featuring Beverly Johnson's new London and Paris Series"]
+		"bullets": ["Local: in-person", "Remote: on-line", "Featuring Beverly Johnson's new London and Paris Series"]
       },
       {
         "title": "Online Tutoring and Consultation",
@@ -88,12 +88,6 @@
   },
   "cta": {
     "title": "Let's start you on your way",
-    "description": "Let your next project be smarter, faster, and effortless.",
-    "buttons": [
-      {
-        "label": "Get Started Today",
-        "url": "www.temperancebras.com"
-      }
-    ]
+    "description": "Let your next project be smarter, faster, and effortless."
   }
 } 

@@ -31,10 +31,10 @@ const props = defineProps({
       <p class="mt-2 leading-relaxed text-zinc-500" v-if="item.description">
         {{ item.description }}
 	  </p>
-	  <ul>
-	  <li v-for="bullet in item.bullets" >
+	  <ul style="margin-left: 40px">
+		<li v-for="bullet in item.bullets" >
         {{ bullet }}
-	  </li>
+		</li>
 	  </ul>
     </div>
   </div>

@@ -19,6 +19,16 @@ const props = defineProps({
           class="inline-flex px-6 py-3 text-white duration-300 bg-green-600 rounded-sm hover:bg-gray-800 transition-color">
           {{ button.label }}</NuxtLink>
       </div>
+	    <form action="https://formspree.io/f/xgolegpv" method="POST">
+			<label> Your email:
+				<input type="email" name="email">
+			</label>
+			<label> Your message:
+				<textarea name="message"></textarea>
+			</label>
+			<!-- your other form fields go here -->
+			<button type="submit">Send</button>
+		</form>
     </div>
   </div>
 </template>

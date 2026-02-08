@@ -1,12 +1,12 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  title: "Temperance Swimwear & Intimates",
   meta: [
     {
       name: "description",
       content:
-        "Nuxt Starter is a minimal template created for quick landing pages, built with Nuxt and Tailwind CSS.",
+        "TS&I is a creator of custom swimwear and intimates, and provides learning and guidance for these structured garments",
     },
   ],
   bodyAttrs: {
